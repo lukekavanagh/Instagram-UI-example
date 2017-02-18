@@ -28,7 +28,7 @@
             "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/bootsy_avatar.jpg",
             "name": "Bootsy Collins",
             "location": "Somewhere funky",
-            "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/bootsy.png"
+            "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/bootsy.jpg"
           }]
         }, {
           "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/wesley_avatar.jpg",
@@ -36,17 +36,17 @@
             "location": "Wrexham",
             "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/wesley.jpg"
           }, {
-         "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/buscemi_avatar.png",
+         "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/buscemi_avatar.jpg",
             "name": "Buscemi",
             "location": "Somewhere",
             "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/buscemi.jpg"
           }, {
-           "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/orville_avatar.png",
+           "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/orville_avatar.jpg",
             "name": "Orville",
             "location": "Oop in the sky",
             "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/orville.jpg"
           }, {
-              "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/george_avatar.png",
+              "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/george_avatar.jpg",
             "name": "George Clinton",
             "location": "Harlem",
             "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/george.jpg"
@@ -61,8 +61,8 @@
             "title": {
               "type": "image",
               "style": {
-                "width": "94",
-                "height": "27"
+                "width": "150",
+                "height": "60"
               },
               "url": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/bratwurst.jpg"
             },
