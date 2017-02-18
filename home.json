@@ -15,10 +15,10 @@
             "location": "Harlem",
             "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/george.jpg"
           }, {
-            "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/orville_avatar.jpg",
+            "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/orville_avatar.jpeg",
             "name": "Orville",
             "location": "Oop in the sky",
-            "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/orville.jpg"
+            "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/orville.jpeg"
           }, {
             "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/buscemi_avatar.jpg",
             "name": "Buscemi",
@@ -41,10 +41,10 @@
             "location": "Somewhere",
             "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/buscemi.jpg"
           }, {
-           "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/orville_avatar.jpg",
+           "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/orville_avatar.jpeg",
             "name": "Orville",
             "location": "Oop in the sky",
-            "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/orville.jpg"
+            "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/orville.jpeg"
           }, {
               "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/george_avatar.jpg",
             "name": "George Clinton",
