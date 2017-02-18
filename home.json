@@ -5,7 +5,7 @@
         "posts": [{
           "type": "stories",
           "items": [{
-            "avatar": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/wesley_avatar.jpg",
+            "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/wesley_avatar.jpg",
             "name": "Barton",
             "location": "Botty",
             "content": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/barton.jpg"
@@ -69,7 +69,7 @@
                 "width": "94",
                 "height": "27"
               },
-              "url": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/logo.png"
+              "url": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/bratwurst.jpg"
             },
             "menu": {
               "image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/box.png"
