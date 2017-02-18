@@ -6,55 +6,50 @@
           "type": "stories",
           "items": [{
             "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/wesley_avatar.jpg",
-            "name": "Barton",
-            "location": "Botty",
-            "content": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/barton.jpg"
+            "name": "Wesley",
+            "location": "Wrexham",
+            "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/wesley.jpg"
           }, {
-            "avatar": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/audrey_avatar.png",
-            "name": "Audrey",
-            "location": "Somewhere",
-            "content": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/audrey.jpg"
+            "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/george_avatar.png",
+            "name": "George Clinton",
+            "location": "Harlem",
+            "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/george.jpg"
           }, {
-            "avatar": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/boss_avatar.png",
-            "name": "Audrey",
-            "location": "Somewhere",
-            "content": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/boss.jpg"
+            "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/orville_avatar.png",
+            "name": "Orville",
+            "location": "Oop in the sky",
+            "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/orville.jpg"
           }, {
-            "avatar": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/chet_avatar.png",
-            "name": "Chet!",
+            "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/buscemi_avatar.png",
+            "name": "Buscemi",
             "location": "Somewhere",
-            "content": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/chet.jpg"
+            "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/buscemi.jpg"
           }, {
-            "avatar": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/girl_avatar.png",
-            "name": "Girl",
-            "location": "Somewhere",
-            "content": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/girl.jpg"
+            "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/bootsy_avatar.png",
+            "name": "Bootsy Collins",
+            "location": "Somewhere funky",
+            "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/bootsy.png"
           }]
         }, {
-          "avatar": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/barton_avatar.png",
-          "name": "Barton",
-          "location": "Somewhere",
-          "content": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/barton.jpg"
-        }, {
-          "avatar": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/audrey_avatar.png",
-          "name": "Audrey",
-          "location": "Somewhere",
-          "content": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/audrey.jpg"
-        }, {
-          "avatar": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/boss_avatar.png",
-          "name": "Audrey",
-          "location": "Somewhere",
-          "content": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/boss.jpg"
-        }, {
-          "avatar": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/chet_avatar.png",
-          "name": "Chet!",
-          "location": "Somewhere",
-          "content": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/chet.jpg"
-        }, {
-          "avatar": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/girl_avatar.png",
-          "name": "Girl",
-          "location": "Somewhere",
-          "content": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/girl.jpg"
+          "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/wesley_avatar.jpg",
+            "name": "Wesley",
+            "location": "Wrexham",
+            "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/wesley.jpg"
+          }, {
+         "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/buscemi_avatar.png",
+            "name": "Buscemi",
+            "location": "Somewhere",
+            "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/buscemi.jpg"
+          }, {
+           "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/orville_avatar.png",
+            "name": "Orville",
+            "location": "Oop in the sky",
+            "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/orville.jpg"
+          }, {
+              "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/george_avatar.png",
+            "name": "George Clinton",
+            "location": "Harlem",
+            "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/george.jpg"
         }]
       },
       "templates": {
@@ -72,7 +67,7 @@
               "url": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/bratwurst.jpg"
             },
             "menu": {
-              "image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/box.png"
+              "image": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/box.png"
             }
           },
           "sections": {
@@ -149,7 +144,7 @@
                       "type": "space"
                     }, {
                       "type": "image",
-                      "url": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/dotdotdot.png",
+                      "url": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/dotdotdot.png",
                       "style": {
                         "padding_top": "10",
                         "width": "25"
@@ -175,35 +170,35 @@
                 "color": "#000000"
               },
               "items": [{
-                "image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/home.png",
+                "image": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/home.png",
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/home.json"
+                "url": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/home.json"
               }, {
-                "image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/search.png",
+                "image": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/search.png",
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/search.json"
+                "url": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/search.json"
               }, {
-                "image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/camera.png",
+                "image": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/camera.png",
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/camera.json"
+                "url": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/camera.json"
               }, {
-                "image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/heart.png",
+                "image": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/heart.png",
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/heart.json"
+                "url": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/heart.json"
               }, {
-                "image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/profile.png",
+                "image": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/profile.png",
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/profile.json"
+                "url": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/profile.json"
               }]
             }
           }
