@@ -5,9 +5,9 @@
         "posts": [{
           "type": "stories",
           "items": [{
-            "avatar": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/barton_avatar.png",
+            "avatar": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/wesley_avatar.png",
             "name": "Barton",
-            "location": "Somewhere",
+            "location": "Botty",
             "content": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/barton.jpg"
           }, {
             "avatar": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/audrey_avatar.png",
