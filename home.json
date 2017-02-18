@@ -50,6 +50,11 @@
             "name": "George Clinton",
             "location": "Harlem",
             "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/george.jpg"
+            }, {
+            "avatar": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/bootsy_avatar.jpg",
+            "name": "Bootsy Collins",
+            "location": "Somewhere funky",
+            "content": "https://raw.githubusercontent.com/lukekavanagh/Instagram-UI-example/master/images/bootsy.jpg"
         }]
       },
       "templates": {
